@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ExpressJS Blog API
 
 This project is an ExpressJS application that serves as a blogging platform API. It supports operations such as posting blog posts, commenting on them, and user authentication.
