@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional nyc test coverage
+coverage
+
+# Optional IDE files
+.vscode/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+
+# Environment variables
+.env

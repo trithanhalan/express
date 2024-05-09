@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "alan96",
+    "password": "Zebachshi@96",
+    "database": "blog_api_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "alan96",
+    "password": "Zebachshi@96",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "alan96",
+    "password": "Zebachshi@96",
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
