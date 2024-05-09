@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ExpressJS Blog API
 
 This project is an ExpressJS application that serves as a blogging platform API. It supports operations such as posting blog posts, commenting on them, and user authentication.
@@ -72,3 +73,6 @@ POST /posts/:id/comments: Add a comment to a post.
 DELETE /posts/:postId/comments/:commentId: Delete a comment from a post.
 GET /users: Fetch all users.
 POST /login: Authenticate a user and return a JWT.
+=======
+# express
+>>>>>>> 9ec92d799ed036bb0324c73dfa3c8f29ae3d9446
